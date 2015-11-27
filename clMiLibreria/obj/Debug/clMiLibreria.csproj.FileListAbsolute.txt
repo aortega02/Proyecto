@@ -1,4 +1,5 @@
 C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\clMiLibreria\bin\Debug\clMiLibreria.dll
 C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\clMiLibreria\bin\Debug\clMiLibreria.pdb
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\clMiLibreria\obj\Debug\clMiLibreria.csprojResolveAssemblyReference.cache
 C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\clMiLibreria\obj\Debug\clMiLibreria.dll
 C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\clMiLibreria\obj\Debug\clMiLibreria.pdb

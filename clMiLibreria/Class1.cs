@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+using System.Windows.Forms;
 namespace clMiLibreria
 {
     public class Class1
@@ -21,6 +17,22 @@ namespace clMiLibreria
             char[] r;
             r = plbr.ToCharArray();
             cant = r.Length;
+        }
+
+        public void cmbstatus(TextBox[] txt, bool Opc, string val = "",bool bt = false)
+        {
+            
+            foreach (TextBox auxTxt in txt)
+                {
+                    if (bt == true)
+                    {
+                        auxTxt.ReadOnly = bt;
+                    }
+                     auxTxt.Visible = Opc;
+                auxTxt.Text = val;
+                }
+            
+            
         }
     }
     public class Calculos

@@ -49,10 +49,14 @@ namespace Operaciones
 
         private void cmbOper_SelectedIndexChanged(object sender, EventArgs e)
         {
+            Class1 camb = new Class1();
             lblparam.Text = "Parametro:";
-            txtval1.Text = "0";
-            txtval1.Visible = true;
-            txtval2.Text = "0";
+            //txtval1.Text = "0";
+
+            TextBox[] txt = { txtval1, txtval2 };
+            camb.cmbstatus(txt, true, "0");
+
+            //txtval2.Text = "0";
             lblResult.Text = "0";
             lblResult.Visible = true;
             lblResInfo.Text = "Total:";
@@ -74,6 +78,8 @@ namespace Operaciones
             {
                 lblparam.Text = "Igrese una Palabra:";
                 txtval1.Text = "";
+                txtval2.Visible = false;
+
             }
             else if (cmbOper.SelectedIndex == 3)
             {
@@ -87,10 +93,20 @@ namespace Operaciones
             if (rdOpc2.Checked == true)
             {
                 lblparam.Text = "Parametro - Diametro:";
+                TextBox[] txt = { txtval1 };
+                cmbstatus(txt);
             }
             else if (rdOpc1.Checked == true)
             {
                 lblparam.Text = "Parametro - Radio:";
+            }
+        }
+
+        private void cmbstatus (TextBox[] txt)
+        {
+            foreach (TextBox auxTxt in txt)
+            {
+                auxTxt.ReadOnly = true;
             }
         }
     }

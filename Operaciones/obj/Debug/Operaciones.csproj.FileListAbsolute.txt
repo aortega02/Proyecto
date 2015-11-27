@@ -1,0 +1,20 @@
+C:\Users\mchavez\AppData\Local\Temporary Projects\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\mchavez\AppData\Local\Temporary Projects\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\mchavez\AppData\Local\Temporary Projects\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\mchavez\AppData\Local\Temporary Projects\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\mchavez\AppData\Local\Temporary Projects\Operaciones\obj\Debug\Operaciones.FrmMain.resources
+C:\Users\mchavez\AppData\Local\Temporary Projects\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\mchavez\AppData\Local\Temporary Projects\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\mchavez\AppData\Local\Temporary Projects\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\mchavez\AppData\Local\Temporary Projects\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\obj\Debug\Operaciones.FrmMain.resources
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\bin\Debug\clMiLibreria.dll
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\Proyecto\Operaciones\bin\Debug\clMiLibreria.pdb
